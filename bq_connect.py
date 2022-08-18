@@ -3,8 +3,10 @@ import os
 import glob
 
 # Specify environments
-os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = glob.glob("*.json")[0]
-project_id = 'bq-test-359202'   # uplowcase sensitive
+# os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = glob.glob("*.json")[0]
+os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = 'hannstar-first-3467ba8870b5.json'
+
+project_id = 'hannstar-first'   # uplowcase sensitive
 client = bq.Client(project=project_id)
 print(client)
 
