@@ -16,4 +16,4 @@ pip install google-cloud-bigquery
 Step 3.
 ---
 
-In bq_connect.py, specify the project_id
+In bq_connect.py, specify the project_id.
