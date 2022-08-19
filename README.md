@@ -1,6 +1,6 @@
 # Bigquery_introduction
 
-Test connection by using [python client library](https://cloud.google.com/python/docs/reference) in [Bigquery sandbox.](https://github.com/xscapex/Mask_Detection_YOLOv5/blob/main/notebook/iMASK_yoloV5_9000_yolov5s.ipynb) 
+Test connection by using [python client library](https://cloud.google.com/python/docs/reference) in [Bigquery sandbox.](https://cloud.google.com/bigquery/docs/sandbox#limits)
 ---
 
 Step 1.
