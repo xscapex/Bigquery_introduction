@@ -6,9 +6,14 @@ Test connection by using [python client library](https://cloud.google.com/python
 Step 1.
 ---
 
-Download the credentials .JSON file.
+Prepare the GOOGLE_APPLICATION_CREDENTIALS .JSON file.
 
 Step 2.
 ---
 
+pip install google-cloud-bigquery
 
+Step 3.
+---
+
+In bq_connect.py, specify the project_id
